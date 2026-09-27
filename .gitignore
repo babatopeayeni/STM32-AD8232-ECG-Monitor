@@ -1,0 +1,25 @@
+# STM32CubeIDE build files
+Debug/
+Release/
+
+# Compiled files
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# Dependency files
+*.d
+
+# IDE temporary files
+*.launch
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
